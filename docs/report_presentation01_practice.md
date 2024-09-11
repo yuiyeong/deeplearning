@@ -1,7 +1,7 @@
 # MNIST 데이터셋을 사용한 실습
 
 - 이 문서는 [노트북](https://colab.research.google.com/drive/1dDrNBFxOdmVf9a7_Tw2tvlQMv7Nkyvka)의 내용에서 CUDA 대신에 MPS(Metal Performance Shader) 를 사용해서 실습해본 내용을 정리한 문서입니다.
-- 이 [노트북](../presentation01/presentation01_mnist_ex.ipynb)으로 실습을 진행했습니다.
+- 이 [노트북](../presentation01/presentation01_mnist_mps.ipynb)으로 실습을 진행했습니다.
 
 ## Epoch 이 50번 일 때, Batch Size 에 따른 학습
 
