@@ -10,3 +10,6 @@ sacremoses
 sentencepiece
 tokenizers
 transformers
+evaluate
+accelerate
+scikit-learn
