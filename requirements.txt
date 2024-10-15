@@ -13,3 +13,5 @@ transformers
 evaluate
 accelerate
 scikit-learn
+python-dotenv
+tqdm
