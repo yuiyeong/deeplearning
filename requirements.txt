@@ -16,3 +16,4 @@ scikit-learn
 python-dotenv
 tqdm
 openai
+wandb
